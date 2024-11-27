@@ -1,0 +1,19 @@
+{
+  "populationData": [
+    { "year": 2005, "population": 6450000000 },
+    { "year": 2006, "population": 6540000000 },
+    { "year": 2007, "population": 6630000000 },
+    { "year": 2008, "population": 6720000000 },
+    { "year": 2009, "population": 6810000000 },
+    { "year": 2010, "population": 6950000000 },
+    { "year": 2011, "population": 7040000000 },
+    { "year": 2012, "population": 7130000000 },
+    { "year": 2013, "population": 7210000000 },
+    { "year": 2014, "population": 7300000000 },
+    { "year": 2015, "population": 7400000000 },
+    { "year": 2016, "population": 7500000000 },
+    { "year": 2017, "population": 7590000000 },
+    { "year": 2018, "population": 7680000000 },
+    { "year": 2019, "population": 7760000000 }
+  ]
+}
